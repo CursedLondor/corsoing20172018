@@ -31,3 +31,14 @@ C:\Users\Utente\Desktop\Nuova cartella (3)\App\ServiceAPI\ServiceAPI\obj\Debug\n
 C:\Users\Utente\Desktop\Nuova cartella (3)\App\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.AssemblyInfo.cs
 C:\Users\Utente\Desktop\Nuova cartella (3)\App\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.dll
 C:\Users\Utente\Desktop\Nuova cartella (3)\App\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.pdb
+C:\Users\Utente\Desktop\corsoing20172018\App\ServiceAPI\ServiceAPI\bin\Debug\netcoreapp2.0\ServiceAPI.deps.json
+C:\Users\Utente\Desktop\corsoing20172018\App\ServiceAPI\ServiceAPI\bin\Debug\netcoreapp2.0\ServiceAPI.runtimeconfig.json
+C:\Users\Utente\Desktop\corsoing20172018\App\ServiceAPI\ServiceAPI\bin\Debug\netcoreapp2.0\ServiceAPI.runtimeconfig.dev.json
+C:\Users\Utente\Desktop\corsoing20172018\App\ServiceAPI\ServiceAPI\bin\Debug\netcoreapp2.0\ServiceAPI.dll
+C:\Users\Utente\Desktop\corsoing20172018\App\ServiceAPI\ServiceAPI\bin\Debug\netcoreapp2.0\ServiceAPI.pdb
+C:\Users\Utente\Desktop\corsoing20172018\App\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.csprojResolveAssemblyReference.cache
+C:\Users\Utente\Desktop\corsoing20172018\App\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\corsoing20172018\App\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\corsoing20172018\App\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.AssemblyInfo.cs
+C:\Users\Utente\Desktop\corsoing20172018\App\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.dll
+C:\Users\Utente\Desktop\corsoing20172018\App\ServiceAPI\ServiceAPI\obj\Debug\netcoreapp2.0\ServiceAPI.pdb

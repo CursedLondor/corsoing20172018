@@ -9005,11 +9005,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Utente\\Desktop\\Nuova cartella (3)\\App\\ServiceAPI\\ServiceAPI\\ServiceAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Utente\\Desktop\\corsoing20172018\\App\\ServiceAPI\\ServiceAPI\\ServiceAPI.csproj",
       "projectName": "ServiceAPI",
-      "projectPath": "C:\\Users\\Utente\\Desktop\\Nuova cartella (3)\\App\\ServiceAPI\\ServiceAPI\\ServiceAPI.csproj",
+      "projectPath": "C:\\Users\\Utente\\Desktop\\corsoing20172018\\App\\ServiceAPI\\ServiceAPI\\ServiceAPI.csproj",
       "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Utente\\Desktop\\Nuova cartella (3)\\App\\ServiceAPI\\ServiceAPI\\obj\\",
+      "outputPath": "C:\\Users\\Utente\\Desktop\\corsoing20172018\\App\\ServiceAPI\\ServiceAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

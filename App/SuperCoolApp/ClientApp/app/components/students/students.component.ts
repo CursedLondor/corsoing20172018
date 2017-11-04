@@ -13,6 +13,7 @@ import 'rxjs/add/observable/forkJoin';
 export class StudentsComponent {
     public students: Student[];
     public selectedStudent: Student | undefined;
+    //Unict default coordinates
     public lat: number = 37.526019;
     public lng: number = 15.074601;
     
@@ -21,7 +22,12 @@ export class StudentsComponent {
     }
 
     ngOnInit() {
-        navigator.geolocation.getCurrentPosition((position) => { this.lat = position.coords.latitude; this.lng = position.coords.longitude; });
+        //Request geolocation. If unable, the default coordinates will be set
+        navigator.geolocation.getCurrentPosition((position) => {
+            this.lat = position.coords.latitude; this.lng = position.coords.longitude;
+        }, () => {
+            console.log('Unable to geolocalize');
+        });
     }
 
     async refreshData() {
@@ -110,6 +116,7 @@ export class StudentsComponent {
     addNewStudent(): void {
         this.selectedStudent = new Student();
         this.selectedStudent.hasChanges = true;
+        //Modify latitude and longitude of selectedStudent
         this.selectedStudent.latitude = this.lat;
         this.selectedStudent.longitude = this.lng;
         this.students.push(this.selectedStudent);
